@@ -15,3 +15,8 @@ Powershell script that peeks inside Outlook inbox and displays last messages.
 ### Censored (blured) example:
 
 ![Peek in Outlook](https://raw.githubusercontent.com/chaoos-theory/pio/master/pio_example.jpg)
+
+### TODO
+
+Tidy up a bit.
+Add comments.
