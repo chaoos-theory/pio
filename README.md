@@ -12,6 +12,6 @@ Powershell script that peeks inside Outlook inbox and displays last messages.
 - shows inbox parsing progress by displaying poor-man's progress bar `-\|/-`
 
 
-### Censored (blured) example
+### Censored (blured) example:
 
 ![Peek in Outlook](https://raw.githubusercontent.com/chaoos-theory/pio/master/pio_example.jpg)
